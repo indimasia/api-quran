@@ -1,0 +1,21 @@
+_id: req_098edd3dd64c434893339536ef53928d
+type: Request
+parentId: fld_e3a44be035c448d0aba1d583ff2f956e
+modified: 1662623627636
+created: 1662623587667
+url: "{{quran_url}}/surah/1"
+name: Surah Detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1662623587667
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
