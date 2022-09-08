@@ -1,0 +1,16 @@
+_id: env_e862b5dc45564ea8b90a04a9cc223a3a
+type: Environment
+parentId: env_c91b017f6ac5877ab5079bc9783210bd8c38c510
+modified: 1662622735182
+created: 1662615463630
+name: Quran
+data:
+  quran_url: http://api.alquran.cloud/v1
+  edition: id.indonesian
+dataPropertyOrder:
+  "&":
+    - quran_url
+    - edition
+color: null
+isPrivate: false
+metaSortKey: 1662615463630
