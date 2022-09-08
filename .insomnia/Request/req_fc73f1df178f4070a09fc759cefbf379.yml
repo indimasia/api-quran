@@ -1,0 +1,21 @@
+_id: req_fc73f1df178f4070a09fc759cefbf379
+type: Request
+parentId: wrk_5e3e0e756fa94266a5d6dea0a96c6304
+modified: 1662623936213
+created: 1662623930591
+url: ""
+name: test Dimas
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1662623930591
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
